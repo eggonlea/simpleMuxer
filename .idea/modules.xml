@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file:///srv/vobs/eggonlea.github.com/simpleMuxer/app/app.iml" filepath="/srv/vobs/eggonlea.github.com/simpleMuxer/app/app.iml" />
+      <module fileurl="file:///srv/vobs/eggonlea.github.com/simpleMuxer/simpleMuxer.iml" filepath="/srv/vobs/eggonlea.github.com/simpleMuxer/simpleMuxer.iml" />
+    </modules>
+  </component>
+</project>
